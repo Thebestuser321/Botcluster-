@@ -15,12 +15,4 @@
         },
         "run": "main.py"
     }
-    "bot3": {
-        "source": "https://github.com/Thebestuser321/FileToLink",
-        "branch": "Tech_VJ",
-        "env": {
-            "BOT_TOKEN": "7825342391:AAHcA9HPcf2uEzKWlZwTHKxIksPwIRvPNX4"
-        },
-        "run": "Adarsh"
-    }
 }
