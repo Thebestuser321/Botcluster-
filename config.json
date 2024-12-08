@@ -14,5 +14,13 @@
             "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
         "run": "main.py"
+    },
+    "bot3": {
+        "source": "repo_link",
+        "branch": "master",
+        "env": {
+            "TOKEN": ""
+        },
+        "run": "run.sh"
     }
 }
