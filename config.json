@@ -14,13 +14,5 @@
             "BOT_TOKEN": "7890436613:AAGjpLBXBQr8_9Js-SKp2DQMBkfpsXJs07s"
         },
         "run": "main.py"
-    },
-    "bot3": {
-        "source": "https://github.com/Thebestuser321/VJ-FILTER-BOT",
-        "branch": "Tech_VJ",
-        "env": {
-            "BOT_TOKEN": "7288393516:AAH_sKAWZH2tY4BAIsSOajYf1lnI-TBOkCo"
-        },
-        "run": "bot.py"
     }
 }
